@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BluetoothMessenger</string>
+
+    <string name="instructions">1. Select Connect to device \n 2. Select an unpaired device to pair and initiate a chat. \n 3. Select a paired device to initiate a chat directly. \n  ---------------- \n **Happy Chatting**</string>
+</resources>
